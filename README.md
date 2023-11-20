@@ -6,11 +6,16 @@ git clone https://github.com/rappidtech/recursos.git
 ```
 
 # Paginas de Templates
-https://www.free-css.com/free-css-templates
-https://html5up.net/
-https://templatemo.com/
-https://www.w3schools.com/css/css_rwd_templates.asp
-https://www.tooplate.com/free-templates
+* https://www.free-css.com/free-css-templates
+
+* https://html5up.net/
+
+* https://templatemo.com/
+
+* https://www.w3schools.com/css/css_rwd_templates.asp
+
+* https://www.tooplate.com/free-templates
+
 
 # Paginas de Snippets
 https://css-tricks.com/snippets/html/
