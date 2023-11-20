@@ -1,6 +1,10 @@
 # recursos
 Recursos de Codigo
 
+``` 
+git clone https://github.com/rappidtech/recursos.git
+```
+
 # Paginas de Templates
 https://www.free-css.com/free-css-templates
 https://html5up.net/
