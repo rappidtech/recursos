@@ -18,7 +18,7 @@ git clone https://github.com/rappidtech/recursos.git
 
 
 # Paginas de Snippets
-https://css-tricks.com/snippets/html/
+* https://css-tricks.com/snippets/html/
 
 # Paginas de Wordpress Templates
-https://www.hostinger.com.ar/tutoriales/mejores-plantillas-wordpress#Las_mejores_plantillas_de_WordPress_gratis_multiusos
+* https://www.hostinger.com.ar/tutoriales/mejores-plantillas-wordpress#Las_mejores_plantillas_de_WordPress_gratis_multiusos
